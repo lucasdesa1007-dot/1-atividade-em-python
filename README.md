@@ -1,5 +1,5 @@
-# atividades-em-python
+atividades em python
 
-Nesse repositorio você vere tudo o que eu estou aprendendo em python comecando do basico e depois indo evoluindo.
+Nesse repositório você verá tudo o que estou aprendendo em Python, começando pelo básico e evoluindo aos poucos.
 
-obs:Nesse repositorio nao tera nada de projeto somento o que estou aprendendo futurante vou criar os repositorios com os meus projetos criados.
+Obs.: Nesse repositório não terá projetos, somente os conteúdos e exercícios que estou aprendendo. Futuramente, vou criar outros repositórios para colocar os projetos que desenvolver.
